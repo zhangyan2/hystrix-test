@@ -1,0 +1,10 @@
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\service\impl\HystrixServiceImpl.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\config\HystrixConfig.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\service\HystrixSenderService.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\model\BeanContext.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\utils\HttpClientUtil.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\web\HystrixController.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\ConsumerApplication.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\hystrix\HystrixInvocation.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\model\Request.java
+D:\work\code\test\hystrix-test\hystrix-consume\src\main\java\com\zhangyan\service\HystrixService.java
