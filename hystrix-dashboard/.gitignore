@@ -1,0 +1,34 @@
+# IntelliJ IDEA
+*.iml
+/.idea/
+/.idea/*
+/.idea/workspace.xml
+/out/
+/service/target/
+service/target/
+contract/target/
+
+
+# Eclipse
+.project
+.settings
+.classpath
+.DS_Store
+consumeloan-web.iml
+/target/
+/service/target/
+
+# IntelliJ project files
+*.idea
+*.iml
+*.jar
+*.lst
+*.class
+*.pom
+.settings/
+.idea/
+.classpath
+.project
+*.iml
+/log
+
