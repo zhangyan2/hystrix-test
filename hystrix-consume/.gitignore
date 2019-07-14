@@ -31,4 +31,5 @@ consumeloan-web.iml
 .project
 *.iml
 /log
+workspace.xml
 
