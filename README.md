@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # hystrix-test
 工作中使用hystrix的示例项目, 借此可以深入研究hystrix, 也可以学习其他springclound组件
 
@@ -23,8 +27,8 @@ eureka-server ---> hystrix-service ---> hystrix-consume ---> hystrix-dashboard
 
 http://localhost:8081/hystrix.stream
 
-![微信截图_20190714202929](D:\work\code\test\hystrix-test\微信截图_20190714202929.png)
+![微信截图_20190714202929](/微信截图_20190714202929.png)
 
 就会出现监控指标图:
 
-![微信截图_20190714203151](D:\work\code\test\hystrix-test\微信截图_20190714203151.png)
+![微信截图_20190714203151](/微信截图_20190714203151.png)
