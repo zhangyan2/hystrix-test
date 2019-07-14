@@ -17,6 +17,10 @@ eureka-server ---> hystrix-service ---> hystrix-consume ---> hystrix-dashboard
 
 <http://localhost:8081/hystrix-test?productId=3000&action=applyAccess>
 
+productId : 对应机构id
+
+action: 对应请求接口名
+
 监控平台:
 
 <http://localhost:8083/hystrix>
